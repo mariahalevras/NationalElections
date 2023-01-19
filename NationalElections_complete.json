@@ -1,0 +1,134 @@
+[
+    {
+        "userid": 0,
+        "name": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ",
+        "percentage": 39.85,
+        "seats": 158
+    },
+    {
+        "userid": 1,
+        "name": "ΣΥΡΙΖΑ",
+        "percentage": 31.53,
+        "seats": 86
+    },
+    {
+        "userid": 2,
+        "name": "ΠΑΣΟΚ",
+        "percentage": 8.1,
+        "seats": 22
+    },
+    {
+        "userid": 3,
+        "name": "ΚΚΕ",
+        "percentage": 5.3,
+        "seats": 15
+    },
+    {
+        "userid": 4,
+        "name": "ΕΛΛΗΝΙΚΗ ΛΥΣΗ",
+        "percentage": 3.7,
+        "seats": 10
+    },
+    {
+        "userid": 5,
+        "name": "ΜΕΡΑ25",
+        "percentage": 3.44,
+        "seats": 9
+    },
+    {
+        "userid": 6,
+        "name": "ΧΡΥΣΗ ΑΥΓΗ",
+        "percentage": 2.93,
+        "seats": "-"
+    },
+    {
+        "userid": 7,
+        "name": "ΠΛΕΥΣΗ ΕΛΕΥΘΕΡΙΑΣ",
+        "percentage": 1.47,
+        "seats": "-"
+    },
+    {
+        "userid": 8,
+        "name": "ΕΝΩΣΗ ΚΕΝΤΡΩΩΝ",
+        "percentage": 1.24,
+        "seats": "-"
+    },
+    {
+        "userid": 9,
+        "name": "ΔΗΜΙΟΥΡΓΙΑ ΞΑΝΑ",
+        "percentage": 0.74,
+        "seats": "-"
+    },
+    {
+        "userid": 10,
+        "name": "Ε.ΠΑ.Μ - Α.Κ.Κ.ΕΛ",
+        "percentage": 0.5,
+        "seats": "-"
+    },
+    {
+        "userid": 11,
+        "name": "ΑΝΤ.ΑΡ.ΣΥ.Α",
+        "percentage": 0.41,
+        "seats": "-"
+    },
+    {
+        "userid": 12,
+        "name": "ΛΑΪΚΗ ΕΝΟΤΗΤΑ",
+        "percentage": 0.28,
+        "seats": "-"
+    },
+    {
+        "userid": 13,
+        "name": "ΕΛΛΗΝΩΝ ΣΥΝΕΛΕΥΣΙΣ",
+        "percentage": 0.25,
+        "seats": "-"
+    },
+    {
+        "userid": 14,
+        "name": "ΚΟΜΜΟΥΝΙΣΤΙΚΟ ΚΟΜΜΑ ΕΛ.",
+        "percentage": 0.14,
+        "seats": "-"
+    },
+    {
+        "userid": 15,
+        "name": "ΜΑΡΞ-ΛΕΝΙΝ. ΚΟΜΜΟΥΝ. ΚΟΜΜΑ ΕΛ.",
+        "percentage": 0.05,
+        "seats": "-"
+    },
+    {
+        "userid": 16,
+        "name": "ΕΡΓΑΤΙΚΟ ΕΠΑΝΑΣΤΑΤΙΚΟ ΚΟΜΜΑ",
+        "percentage": 0.03,
+        "seats": "-"
+    },
+    {
+        "userid": 17,
+        "name": "Ο.Κ.Δ.Ε",
+        "percentage": 0.03,
+        "seats": "-"
+    },
+    {
+        "userid": 18,
+        "name": "ΑΝΕΞΑΡΤΗΤΟΙ/ΜΕΜΟΝΟΜΕΝΟΙ ΥΠΟΠ.",
+        "percentage": 0.01,
+        "seats": "-"
+    },
+    {
+        "userid": 19,
+        "name": "ΣΥΝ...ΦΩΝΙΑ ΠΟΛΙΤΙΚΩΝ ΚΟΜΜΑΤΩΝ",
+        "percentage": "-",
+        "seats": "-"
+    },
+    {
+        "userid": 20,
+        "name": "ΕΛΛΗΝΕΣ ΟΙΚΟΛΟΓΟΙ",
+        "percentage": "-",
+        "seats": "-"
+    },
+    {
+        "userid": 21,
+        "name": "ΛΟΙΠΑ",
+        "percentage": 8.07,
+        "seats": "-"
+    }
+]
