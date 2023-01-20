@@ -1,0 +1,47 @@
+{
+  "B Thessalonikis":
+  [
+    {
+        "userid": 0,
+        "name": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ",
+        "percentage": 43.02,
+        "seats": 3
+    },
+    {
+        "userid": 1,
+        "name": "ΣΥΡΙΖΑ",
+        "percentage": 25.14,
+        "seats": 2
+    },
+    {
+        "userid": 2,
+        "name": "ΠΑΣΟΚ",
+        "percentage": 6.65,
+        "seats": 1
+    },
+    {
+        "userid": 3,
+        "name": "ΕΛΛΗΝΙΚΗ ΛΥΣΗ",
+        "percentage": 5.65,
+        "seats": 1
+    },
+    {
+        "userid": 4,
+        "name": "ΚΚΕ",
+        "percentage": 4.61,
+        "seats": 1
+    },
+    {
+        "userid": 5,
+        "name": "ΧΡΥΣΗ ΑΥΓΗ",
+        "percentage": 4.2,
+        "seats": "-"
+    },
+    {
+        "userid": 6,
+        "name": "ΛΟΙΠΑ",
+        "percentage": 10.72999999999999,
+        "seats": "-"
+    }
+  ]
+}
