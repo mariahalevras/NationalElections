@@ -1,0 +1,304 @@
+{
+  "State_Firsts" : [
+    {
+        "userid": 0,
+        "state": "A Anatolikis Attikis",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 1,
+        "state": "A Athinon",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 2,
+        "state": "A Pireos",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 3,
+        "state": "A Thessalonikis",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 4,
+        "state": "Ahaias",
+        "vote": "ΣΥΡΙΖΑ"
+    },
+    {
+        "userid": 5,
+        "state": "Argolidos",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 6,
+        "state": "Arkadias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 7,
+        "state": "Artas",
+        "vote": "ΣΥΡΙΖΑ"
+    },
+    {
+        "userid": 8,
+        "state": "Ayios Oros",
+        "vote": "NONE"
+    },
+    {
+        "userid": 9,
+        "state": "B1 Boriou Tomea Athinon",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 10,
+        "state": "B2 Ditikou Tomea Athinon",
+        "vote": "ΣΥΡΙΖΑ"
+    },
+    {
+        "userid": 11,
+        "state": "B3 Notiou Tomea Athinon",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 12,
+        "state": "B Ditikis Attikis",
+        "vote": "ΣΥΡΙΖΑ"
+    },
+    {
+        "userid": 13,
+        "state": "B Pireos",
+        "vote": "ΣΥΡΙΖΑ"
+    },
+    {
+        "userid": 14,
+        "state": "B Thessalonikis",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 15,
+        "state": "Chalkidiki",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 16,
+        "state": "Chanion",
+        "vote": "ΣΥΡΙΖΑ"
+    },
+    {
+        "userid": 17,
+        "state": "Chiou",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 18,
+        "state": "Dodekanisou",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 19,
+        "state": "Dramas",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 20,
+        "state": "Etoloakarnanias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 21,
+        "state": "Evias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 22,
+        "state": "Evritanias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 23,
+        "state": "Evrou",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 24,
+        "state": "Florinas",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 25,
+        "state": "Fokidas",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 26,
+        "state": "Fthiotidas",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 27,
+        "state": "Grevenon",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 28,
+        "state": "Ilias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 29,
+        "state": "Imathias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 30,
+        "state": "Ioanninon",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 31,
+        "state": "Irakliou",
+        "vote": "ΣΥΡΙΖΑ"
+    },
+    {
+        "userid": 32,
+        "state": "Karditsas",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 33,
+        "state": "Kastorias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 34,
+        "state": "Kavalas",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 35,
+        "state": "Kefallinias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 36,
+        "state": "Kerkiras",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 37,
+        "state": "Kikladon",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 38,
+        "state": "Kilkis",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 39,
+        "state": "Korinthias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 40,
+        "state": "Kozanis",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 41,
+        "state": "Ksanthis",
+        "vote": "ΣΥΡΙΖΑ"
+    },
+    {
+        "userid": 42,
+        "state": "Lakonias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 43,
+        "state": "Larisas",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 44,
+        "state": "Lasithiou",
+        "vote": "ΣΥΡΙΖΑ"
+    },
+    {
+        "userid": 45,
+        "state": "Lefkadas",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 46,
+        "state": "Lesvou",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 47,
+        "state": "Magnisias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 48,
+        "state": "Messinias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 49,
+        "state": "Pellas",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 50,
+        "state": "Pierias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 51,
+        "state": "Prevezas",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 52,
+        "state": "Rethimnis",
+        "vote": "ΣΥΡΙΖΑ"
+    },
+    {
+        "userid": 53,
+        "state": "Rodopis",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 54,
+        "state": "Samou",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 55,
+        "state": "Serron",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 56,
+        "state": "Thesprotias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 57,
+        "state": "Trikalon",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 58,
+        "state": "Viotias",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    },
+    {
+        "userid": 59,
+        "state": "Zakinthou",
+        "vote": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ"
+    }
+  ]
+}
