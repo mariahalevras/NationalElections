@@ -1,0 +1,46 @@
+{
+  "Fthiotidas" : [
+    {
+        "userid": 0,
+        "name": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ",
+        "percentage": 43.79,
+        "seats": 4
+    },
+    {
+        "userid": 1,
+        "name": "ΣΥΡΙΖΑ",
+        "percentage": 31.64,
+        "seats": 1
+    },
+    {
+        "userid": 2,
+        "name": "ΠΑΣΟΚ",
+        "percentage": 7.59,
+        "seats": "-"
+    },
+    {
+        "userid": 3,
+        "name": "ΚΚΕ",
+        "percentage": 4.38,
+        "seats": "-"
+    },
+    {
+        "userid": 4,
+        "name": "ΕΛΛΗΝΙΚΗ ΛΥΣΗ",
+        "percentage": 3.19,
+        "seats": "-"
+    },
+    {
+        "userid": 5,
+        "name": "ΧΡΥΣΗ ΑΥΓΗ",
+        "percentage": 2.82,
+        "seats": "-"
+    },
+    {
+        "userid": 6,
+        "name": "ΛΟΙΠΑ",
+        "percentage": 6.590000000000003,
+        "seats": "-"
+    }
+  ]
+}
