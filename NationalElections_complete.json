@@ -2,39 +2,39 @@
     "National_Elections" : [
         {
             "userid": 0,
-            "name": "ΣΥΡΙΖΑ",
+            "name": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ",
             "percentage": 39.85,
             "seats": 158
         },
         {
             "userid": 1,
-            "name": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ",
+            "name": "ΣΥΡΙΖΑ",
             "percentage": 31.53,
-            "seats": 80
+            "seats": 86
         },
         {
             "userid": 2,
             "name": "ΠΑΣΟΚ",
             "percentage": 8.1,
-            "seats": 26
+            "seats": 22
         },
         {
             "userid": 3,
             "name": "ΚΚΕ",
             "percentage": 5.3,
-            "seats": 17
+            "seats": 15
         },
         {
             "userid": 4,
             "name": "ΕΛΛΗΝΙΚΗ ΛΥΣΗ",
             "percentage": 3.7,
-            "seats": 16
+            "seats": 10
         },
         {
             "userid": 5,
             "name": "ΜΕΡΑ25",
             "percentage": 3.44,
-            "seats": 3
+            "seats": 9
         },
         {
             "userid": 6,
